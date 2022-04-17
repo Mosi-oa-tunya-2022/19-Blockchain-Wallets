@@ -1,6 +1,6 @@
 ## Unit 19 Homework: Cryptocurrency Wallet
 
-![An image shows a wallet with bitcoin.](Images/19-4-challenge-image.png)
+![An image shows a wallet with bitcoin.](/Starter-Code/Images/19-4-challenge-image.png)
 
 ### Background
 
@@ -34,10 +34,11 @@ Once you receive the transaction’s hash code, you will navigate to the Transac
 
 
 ## Submission
-
-![BALANCES SCREENSHOT1.](Images/balance1.gif)
-![BALANCES SCREENSHOT2.](Images/balance2.gif)
-![BALANCES SCREENSHOT3.](Images/balance3.gif)
+### [Fintech Finder](/Starter-Code/fintech_finder.py)
+### Screen shots
+![BALANCES SCREENSHOT1.](/Starter-Code/Images/balance1.gif)
+![BALANCES SCREENSHOT2.](/Starter-Code/Images/balance2.gif)
+![BALANCES SCREENSHOT3.](/Starter-Code/Images/balance3.gif)
 
 * Upload the files for this assignment to your GitHub repository.
 
