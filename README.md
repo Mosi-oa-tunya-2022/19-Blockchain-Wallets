@@ -40,9 +40,9 @@ Once you receive the transaction’s hash code, you will navigate to the Transac
 ![BALANCES SCREENSHOT2.](/Starter-Code/Images/balance2.gif)
 ![BALANCES SCREENSHOT3.](/Starter-Code/Images/balance3.gif)
 
-* Upload the files for this assignment to your GitHub repository.
+* Files uploaded and....
 
-* Submit the link to your GitHub repo on Bootcamp Spot.
+* Link Submitted for my GitHub repo on Bootcamp Spot.
 
 ---
 
